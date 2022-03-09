@@ -23,8 +23,13 @@
     <li>Cisco IOS</li>
     <li>Linux (Főbb disztribúciók: Ubuntu, SUSE)</li>
 </ul><br>
+<p><b>Nyelvek, amiken tudok:</b></p>
+<ul>
+    <li>Magyar (Anyanyelv)</li>
+    <li>Angol (B1 - B2)</li>
+</ul><br>
 <h2>Jelenleg tanulom 🧐</h2>
-<i>Többek közt az imént felsorolt Programozási nyelveket és Operációs rendszereket is mindig tanulom, hogy folyamatosan finomítgassam, és szinten tartsam a tudásom.</i>
+<i>Többek közt az imént felsorolt Programozási nyelveket, Operációs rendszereket és Nyelveket is mindig tanulom, hogy folyamatosan finomítgassam, és szinten tartsam a tudásom.</i>
 <p><b>Programozás nyelvek, amiket tanulok:</b></p>
 <ul>
     <li>Java</li>
@@ -32,6 +37,11 @@
     <li>jQuery</li>
     <li>C++</i></li>
     <li>Pyton</li>
+</ul><br>
+<p><b>Nyelvek, amiket tanulok:</b></p>
+<ul>
+    <li>Német</li>
+    <li>Francia</li>
 </ul><br>
 <h2>Programok, amiket használok 💻</h2>
 <p><b>Programozáshoz</b></p>
