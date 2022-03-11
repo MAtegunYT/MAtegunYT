@@ -1,5 +1,5 @@
 <h1>Hello! 👋</h1>
-<p>Egy 17 éves programozást/hálózatot tanuló, gimnazista srác vagyok.</p>
+<p>Egy 17 éves programozást/hálózatot tanuló, kávéimádó gimnazista srác vagyok.</p>
 <p>Jelenleg Magyarországon élek, Debrecen környékén.</p>
 <h2>Jelenlegi tudásom 🧠</h2>
 <p><b>Tapasztalataim:</b></p>
