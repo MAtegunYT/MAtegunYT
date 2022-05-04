@@ -80,7 +80,7 @@
 </ul><br>
 <h1>Elérhetőségeim 📡</h1>
 <ul>
-    <li>Discord nevem: 𝓜𝓐𝓽𝓮𝓰𝓾𝓷𝓨𝓣♛#4753</li>
+    <li>Discord nevem: 𝓜𝓐𝓽𝓮𝓰𝓾𝓷𝓨𝓣♛#8504</li>
     <li>Saját Discord szerverem: (Hamarosan)</li>
     <li>Főbb Discord szerverek: ScuzY - https://discord.gg/mHxjTdk || BudapestFive - https://discord.io/budapest_five || IJF Judoverse - https://discord.io/judo</li>
     <li>Email: business.matezagyva@gmail.com (Üzleti Email cím)</li>
