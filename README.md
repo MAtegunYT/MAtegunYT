@@ -65,10 +65,8 @@
 <p><b>Programozás</b></p>
 <ul>
     <li>Saját weboldal (Link hamarosan)</li>
-    <li>ScuzY weboldal (https://scuzy.hu/)</li>
     <li>Új weboldal a BudapestFivenak (https://bpfive.org/)</li>
     <li>Discord Botok</li>
-    <li>Minecraft szerver (mc.scuzy.hu)</li>
     <li>És sok más..</li>
 </ul><br>
 <p><b>Hálózatok</b></p>
@@ -84,6 +82,6 @@
 <ul>
     <li>Discord nevem: 𝓜𝓐𝓽𝓮𝓰𝓾𝓷𝓨𝓣♛#4753</li>
     <li>Saját Discord szerverem: (Hamarosan)</li>
-    <li>Főbb Discord szerverek: ScuzY - https://discord.gg/mHxjTdk || BudapestFive - https://discord.io/budapest_five</li>
+    <li>Főbb Discord szerverek: ScuzY - https://discord.gg/mHxjTdk || BudapestFive - https://discord.io/budapest_five || IJF Judoverse - https://discord.io/judo</li>
     <li>Email: business.matezagyva@gmail.com (Üzleti Email cím)</li>
 </ul><br>
