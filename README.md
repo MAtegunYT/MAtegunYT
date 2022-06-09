@@ -13,7 +13,7 @@
 <p><b>Programozás nyelvek, amiket tudok:</b></p>
 <ul>
     <li>PHP/SQL/MySQL (Jelenlegi kedvencem 🔥)</li>
-    <li>HTML/CSS/SASS</li>
+    <li>HTML/CSS/SCSS/SASS</li>
     <li>JavaScript/JSON<i> (Attol, hogy tudok JS-ben programozni, nem azt jelenti, hogy feltétlen szeretek is 😅)</i></li>
     <li>C#</li>
 </ul><br>
